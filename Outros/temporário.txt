@@ -1,0 +1,1 @@
+codigo, produto, energia, agua, proteina, lipidos, hc, acucar, acidosorganicos, alcool, amido, oligossacaridos, fibra, sfa, mufa, pufa, trans, acidolinoleico, colesterol, vit_a_total, caroteno, vitd, a_tocoferol, tiamina, riboflavina, equivalentesdeniacina, niacina, triptofano, vitb6, vitb12, vitc, folatos, cinza, na, k, ca, p, mg, fe, zn
